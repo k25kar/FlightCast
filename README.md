@@ -15,7 +15,7 @@ Before running the application, ensure you have the following dependencies insta
   - `os`
   - `threading`
   - `sklearn` (for the machine learning model)
-  - `pandas` (if required by the model)
+  - `pandas`
 
 You can install the required libraries using pip:
 
